@@ -1,5 +1,5 @@
 <?PHP
-    $file_name="sstraffic";
+    $file_name="../../sstraffic";//========================Remember to modify: your file location;
     $fp=fopen($file_name,'r');
     $n=2;//=====================================================Remember to modify: Total Persons;
     while(!feof($fp))

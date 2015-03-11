@@ -51,7 +51,7 @@
             $total=$remain+$used;
             //define used rate (%);
             $i=$i+3;
-            $counter[$i]=100*$used/$total;
+            $counter[$i]=number_format(100*$used/$total,2);
             
             //show traffic;
             //$i=$i-4;

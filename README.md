@@ -10,4 +10,4 @@ Only two locations need to be modified.
 
 Enjoy it!
 
-you can see the example: http://ss.lokyshin.com
+you can see the example: http://ss.lokyshin.tk

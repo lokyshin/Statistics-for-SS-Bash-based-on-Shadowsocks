@@ -1,4 +1,4 @@
-# Statistics-for-SS-Bash-based-on-Shadowsocks
+# WEB-for-SS-Bash 
 
 PHP Table and Chart to Show Statistics for SS-Bash based on Shadowsocks
 
@@ -10,4 +10,4 @@ Only two locations need to be modified.
 
 Enjoy it!
 
-you can see the example: http://ss.lokyshin.tk
+you can see the example: http://gia2.innk.ink
